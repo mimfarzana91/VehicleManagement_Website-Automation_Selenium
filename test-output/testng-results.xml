@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153559" started-at="2019-10-31T17:07:23 BDT" finished-at="2019-10-31T17:09:56 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153559" started-at="2019-10-31T17:07:23 BDT" finished-at="2019-10-31T17:09:56 BDT">
+      <class name="Register_teststep">
+        <test-method status="PASS" signature="initdriver()[pri:0, instance:Register_teststep@2bea5ab4]" name="initdriver" is-config="true" duration-ms="8384" started-at="2019-10-31T17:07:23 BDT" finished-at="2019-10-31T17:07:31 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initdriver -->
+        <test-method status="PASS" signature="GUIVerification()[pri:0, instance:Register_teststep@2bea5ab4]" name="GUIVerification" duration-ms="145142" started-at="2019-10-31T17:07:31 BDT" finished-at="2019-10-31T17:09:56 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GUIVerification -->
+        <test-method status="PASS" signature="testCaseTearDown()[pri:0, instance:Register_teststep@2bea5ab4]" name="testCaseTearDown" is-config="true" duration-ms="1" started-at="2019-10-31T17:09:56 BDT" finished-at="2019-10-31T17:09:56 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTearDown -->
+      </class> <!-- Register_teststep -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
